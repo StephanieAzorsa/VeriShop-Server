@@ -21,7 +21,7 @@ config/
 .project
 .classpath
 
-#Archivos de registro
+# Archivos de registro
 *.log
 spring.log
 
