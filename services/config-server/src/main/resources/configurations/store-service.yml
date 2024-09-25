@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      username: antennae
+      password: antennae
+      host: localhost
+      port: 27017
+      database: store
+      authentication-database: admin
+
+server:
+  port: 8090
